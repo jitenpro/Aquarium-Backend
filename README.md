@@ -2,7 +2,7 @@
 -- The Repo contains backend code of an Aquarium ecommerce web-application
 
 
-### ER- Diagram
+### Architecture Flow
 
 ```mermaid
 graph TD;
@@ -17,12 +17,14 @@ graph TD;
     Repositories-->DataBase;
 ```
 
-> <p> <img align="center" width="90%" src="https://github.com/jitenpro/Aquarium-Backend/blob/main/ER%20Diagram.png" /> </p><br>
+### ER
+
+> <p> <img align="center" width="90%" src="https://github.com/jitenpro/Aquarium-Backend/blob/main/Architec1.png" /> </p><br>
 
 
 ### Database Structure
 
-> <p> <img align="center" width="90%" src="https://github.com/jitenpro/Aquarium-Backend/blob/main/Architec1.png" /> </p><br>
+> <p> <img align="center" width="90%" src="https://github.com/jitenpro/Aquarium-Backend/blob/main/ER%20Diagram.png" /> </p><br>
 
 
 
