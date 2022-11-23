@@ -15,6 +15,7 @@ graph TD;
     Services-->DTO;
     Repositories-->Entity;
     Repositories-->DataBase;
+    Entity-->DataBase;
 ```
 
 ### ER
