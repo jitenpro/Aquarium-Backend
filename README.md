@@ -1,9 +1,9 @@
 # Aquarium Backend
--- The Repo contains backend code of an Aquarium ecommerce web-application
+> The Repo contains backend code of an Aquarium ecommerce web-application
 
 
 ### Architecture Flow
-
+>
 ```mermaid
 graph TD;
     Frontend-->CORS;
